@@ -1,0 +1,11 @@
+Notebook[{
+ Cell["Minimum-cost process choice", "Title"],
+ Cell["Open this saved notebook with process_choice.wl in the same folder. Select the input cells below and press Shift+Enter in order. The source file contains all model definitions and checks. This notebook does not export files. Read README.md for the Chinese tutorial and VALIDATION.md for the execution status.", "Text"],
+ Cell["1. Load the source and draw the figure", "Section"],
+ Cell[BoxData[RowBox[{"Get", "[", RowBox[{"FileNameJoin", "[", RowBox[{"{", RowBox[{RowBox[{"NotebookDirectory", "[", "]"}], ",", "\"process_choice.wl\""}], "}"}], "]"}], "]"}]], "Input"],
+ Cell["2. Inspect the validation summary", "Section"],
+ Cell[BoxData["pcValidation"], "Input"],
+ Cell["3. Compare representative points", "Section"],
+ Cell["Each row contains {coordinates, simplified region choice, direct cost choice}.", "Text"],
+ Cell[BoxData["pcSampleResults"], "Input"]
+}, StyleDefinitions -> "Default.nb", WindowTitle -> "Process choice lesson"]
