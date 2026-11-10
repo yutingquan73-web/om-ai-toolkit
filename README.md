@@ -13,10 +13,10 @@
 | 计划模块 | 要解决的问题 | 预期示例产物 |
 | --- | --- | --- |
 | [Mathematica 区域图：首个教学模块](examples/01-process-choice/README.md) | 将模型条件转成区域图，核对可行域、边界和代表点 | 已提供技能、教程、源码、notebook 和经检查的图形预览 |
-| Visio 图形重建 | 根据参考图重建图形、文字和连线，便于后续修改 | 可编辑的 Visio 文件 |
-| MathType 公式 | 在科研图或 Office 文档中保留可继续编辑的公式 | 含可编辑公式的文件与检查说明 |
+| [Mathematica → PowerPoint → Visio](examples/01-process-choice/visio/README.md) | 从模型坐标生成矢量底图，在 Visio 中添加完整坐标标注 | 中转文件、可编辑 Visio 文件及复现步骤 |
+| [MathType 公式](examples/01-process-choice/visio/README.md#加入一个可编辑公式) | 在科研图中保留可继续编辑的公式 | 已含一个可保存重开的 MathType 边界公式 |
 
-首发范围已确定为现有 Mathematica 技能与三工艺教学案例。模块的已完成检查和未验证部分见[验证记录](examples/01-process-choice/VALIDATION.md)。Visio 与 MathType 留待后续，不纳入首发。项目不包含商业软件安装程序，也不代办软件授权。
+Mathematica 的运行结果及限制见[验证记录](examples/01-process-choice/VALIDATION.md)。矢量交接与 MathType 示例已完成固定费用为 12 的基准流程核验。项目不包含商业软件安装程序，也不代办软件授权。
 
 ## 现在怎样开始
 

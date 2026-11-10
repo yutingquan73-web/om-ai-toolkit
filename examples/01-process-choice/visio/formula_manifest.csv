@@ -1,0 +1,2 @@
+formula_id,latex,target_app,role,anchor,required_editable,status,source,batch,anchor_rule,interaction_owner,creation_method,expected_ole_delta,font_size_pt,color,rotation_deg,notes
+AC01,f=5q/2,visio,threshold_label,complete_R2/process_choice_finished_R3.vsdx BoundaryACFormula,true,verified,../README.md A-C boundary,threshold,Above the rising A-C boundary in region A,codex,duplicate_identical,1,,black,0,Same-content MathType object copied through Visio; saved and reopened then activated in MathType
